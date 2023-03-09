@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * @author dayanna.rodriguez
+ * Correr el metodo main de cada clase para ver su funcion
  */
 public class S3_TiposPrimitivos {
     
@@ -13,7 +14,7 @@ public class S3_TiposPrimitivos {
         //tipoChar();
         //tipoBoolean();
         //conversiones();
-        //tareaTiendaLibros();
+        tareaTiendaLibros();
     }  
     
     public static void tiposPrimitivosEnteros () {

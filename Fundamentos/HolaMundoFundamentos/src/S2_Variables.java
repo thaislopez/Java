@@ -3,6 +3,7 @@ import javax.swing.JOptionPane;
 
 /**
  * @author dayanna.rodriguez
+ * Correr el metodo main de cada clase para ver su funcion
  */
 public class S2_Variables {
 
@@ -12,10 +13,8 @@ public class S2_Variables {
         //variables();
         //concatenacion();
         //scanner ();
-        //tarea();
-        //NOTA - Si se va a utilizar var
-        //las variables se colocan por separado
-        //no pueden ir juntas
+        tarea();
+
     }
 
     public static void variables() {
